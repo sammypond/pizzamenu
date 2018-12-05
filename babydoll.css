@@ -3,42 +3,35 @@ h1 {
 }
 .menu {
     display: inline-block;
-    /* margin-left: 20%;
-    margin-top: 5%; */
-    border: 2px solid #080054;
+    border: 2px solid #fff;
     box-shadow: 0 0 0 3px rgba;
     border-radius: 5%;
     min-height: 200px;
     min-width: 200px;  
-    background-color: #947;
-}
-.button {
-    cursor: pointer;
-    color: #fff;
-    display: inline-block;
-    border-radius: .5em;
-    margin: 1% auto;
-    padding: .1px 0 .1px 0px;
-    font: 18px sans-serif;
-
+    background-image: url(./checks.jpg);
+    text-align: left;
+    font-weight: bold;
 }
 
-#button {
-    cursor: pointer;
-    text-align: center;
-    margin-left: 25%;
-    padding: 0%;
+#buttonz {
+    margin-left: 44.3%;
 }
 
-h3 {
-    text-align: center;
-}
 
 #formmenu {
     text-align: center;
-    background-color: aqua;
+    background-image: url(./pizzaparty.png);
 }
 
-.menustack {
-    background-color: blue;
+
+#title {
+    background-image: url(./checks.jpg);
+    margin-bottom: 0%;
+    margin-top: 0%;
+    height: 45px;
 }
+
+#cart {
+    margin-left: 45%;
+}
+
